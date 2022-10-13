@@ -1,7 +1,7 @@
 ## Add your name and GitHub down below
 
 1. [Matthew Sharp](https://github.com/MattSharp05)
-2. 
+2. [Mahek Patel](https://github.com/mahekp05)
 
 
 ## Add your ideas for future GDSC Workshops

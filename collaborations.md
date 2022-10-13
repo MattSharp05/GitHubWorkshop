@@ -10,5 +10,6 @@
 2. Intro to Web development
 3. Intro to App development
 4. G-Suite for Developers
+5. Resume review
 
 
